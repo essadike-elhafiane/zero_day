@@ -10,5 +10,7 @@ const person1 = {
 }
 
 console.log(person);
-// This will return "Mary Doe":
+console.log(person);
+console.log(person);
+
 person.fullName.apply(person1);
