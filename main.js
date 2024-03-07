@@ -9,5 +9,6 @@ const person1 = {
   lastName: "Doe"
 }
 
+console.log(person);
 // This will return "Mary Doe":
 person.fullName.apply(person1);
